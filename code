@@ -1,0 +1,13 @@
+print("hello how are you?")
+print("")
+
+answer = input("")
+if answer == 'good':
+    print("Thats great!")
+elif answer == 'bad':
+    print("Thats not good!")
+elif answer == 'okay':
+    print("not bad")
+
+else:
+    print("that is not valid ")
